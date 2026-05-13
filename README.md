@@ -1,8 +1,8 @@
 <h1 align="left">Hey 👋 I'm Theo.</h1>
 
-<h2 align="left">Frontend Developer by day. Technical founder in progress.</h2>
+<h2 align="left">Frontend Developer by day. Founder in progress.</h2>
 
-<p align="left">🌍  Based in Pretoria, South Africa<br>💼  I build clean, functional UIs professionally and fullstack products on the side<br>🚀  Working toward becoming a technical founder (unicorn or bust... or just profitable, I'm not picky)</p>
+<p align="left">🌍  Based in Pretoria, South Africa<br>💼  I build clean, functional UIs professionally and fullstack products on the side<br>🚀  Working toward becoming a founder (unicorn or bust... or just profitable, I'm not picky)</p>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
