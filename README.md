@@ -1,8 +1,6 @@
 <h1 align="left">Hey 👋 I'm Theo.</h1>
 
-<h2 align="left">Frontend Developer by day. Founder in progress.</h2>
-
-<p align="left">🌍  Based in Pretoria, South Africa<br>💼  I build clean, functional UIs professionally and fullstack products on the side<br>🚀  Working toward becoming a founder (unicorn or bust... or just profitable, I'm not picky)</p>
+<p align="left">🌍  Based in Pretoria, South Africa</p>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
@@ -18,7 +16,7 @@
 
 <h3 align="left">What I'm building toward</h3>
 
-<p align="left">By day I'm a frontend developer crafting UIs. Outside of that, I'm deep in the weeds learning fullstack development, product thinking, and what it actually takes to build something people pay for. The goal is to go from developer to founder, whether that's one big thing or several smaller ones that compound over time.</p>
+<p align="left">By day I'm a frontend developer crafting UIs. Outside of that, I'm deep in the weeds learning fullstack development, product thinking, and what it actually takes to build something people pay for. The goal is to go from developer to founder.</p>
 
 <h3 align="left">A bit about me</h3>
 
