@@ -1,34 +1,24 @@
-<h1 align="left">Hey 👋 I'm Theo.</h1>
+# Hey 👋 I'm Theo
 
-<p align="left">🌍  Based in Pretoria, South Africa</p>
+```js
+const theo = {
+  location: "Pretoria, South Africa 🇿🇦",
+  occupation: "Frontend Developer",
+  mission: "Build a portfolio of indie apps",
+  hobbies: [
+    "PADI-certified open water diver 🤿",
+    "Aquascaping 🐠",
+    "Action Cricket 🏏",
+    "Virtual GT racing on iRacing 🏁",
+  ],
+  hotTake: "Programming is just adult Lego without the instructions 🧱",
+};
+```
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
-</div>
+## Currently busy
 
-<h3 align="left">What I'm building toward</h3>
+<p>🎨 Building user interfaces by day</br>🏗️ Learning backend development and system design</br>📚 Exploring product thinking, startups, and entrepreneurship</br>🚀 Shipping projects and figuring out what makes people click "Pay"</p>
 
-<p align="left">By day I'm a frontend developer crafting UIs. Outside of that, I'm deep in the weeds learning fullstack development, product thinking, and what it actually takes to build something people pay for. The goal is to go from developer to founder.</p>
+## Find me around the internet
 
-<h3 align="left">A bit about me</h3>
-
-<p align="left">🤿 PADI-certified open water diver<br>🧱 I'm convinced programming is just adult Lego</p>
-
-<h3 align="left">Socials</h3>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/snymantheo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@theosucksatcode" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+💼 LinkedIn: [@snymantheo](https://www.linkedin.com/in/snymantheo/) | ✍️ DEV: [@theosucksatcode](https://dev.to/theosucksatcode) | 🎥 YouTube: [@theosucksatcode](https://www.youtube.com/@theosucksatcode)
